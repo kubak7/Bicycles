@@ -15,7 +15,7 @@
       "sizes": "300x160"
     }
   ],
-  "start_url": "/bicycles.html",
+  "start_url": "/index.html",
   "background_color": "white",
   "display": "standalone",
   "scope": "/",
